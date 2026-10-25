@@ -405,4 +405,3 @@ prahari/
 
 This is a hackathon proposal and a design exercise, not a production system and not financial, legal or regulatory advice. Figures are taken from the sources above and should be re-checked before being reused. Nothing here is an RBI, NPCI or Citi rule or position.
 
-License: Apache License 2.0 (add a `LICENSE` file to the repository).
